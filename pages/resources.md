@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Projects
+title: Learning Resources
 category: resources
 permalink: /resources
 ---
