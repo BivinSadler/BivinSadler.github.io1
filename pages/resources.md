@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Learning Resources
+title: Whamo
 category: resources
 permalink: /resources
 ---
